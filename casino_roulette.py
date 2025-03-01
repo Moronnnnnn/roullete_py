@@ -8,7 +8,7 @@ class CasinoRoulette:
         self.root = root
         self.root.title("Casino Roulette")
 
-        #
+        #hotpot 5051
         window_width = 600
         window_height = 700
 
